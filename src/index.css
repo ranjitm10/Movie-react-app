@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #22254b;
+  background-color: white;
   color: white;
   font-family: "Poppins", sans-serif;
   margin: 0;
@@ -28,13 +28,13 @@ body {
 header {
   display: flex;
   justify-content: flex-end;
-  background-color: #373b69;
+  background-color: black;
   padding: 1rem;
 }
 
 .search {
   background-color: transparent;
-  border: 2px solid #22254b;
+  border: 2px solid orange;
   border-radius: 50px;
   font-family: inherit;
   font-size: 1.2rem;
@@ -60,7 +60,7 @@ header {
 }
 
 .movie {
-  background-color: #373b69;
+  background-color: #696969;
   border-radius: 3px;
   box-shadow: 3px 3px 5px rgba(0,0,0,0.1);
   overflow: hidden;     /* Para a imagem nao criar uma borda pontuda na parte superior do box */
